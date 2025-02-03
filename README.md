@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error and its solution.  The `bug.py` file shows code that attempts to calculate the average of a list containing a string, resulting in a `TypeError`. The `bugSolution.py` file provides a more robust solution that handles this case gracefully.
